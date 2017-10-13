@@ -1,4 +1,4 @@
-#10,001st Prime
+# 10,001st Prime
 
 def primeTest(n):
 	#Returns true if a number is prime

@@ -1,11 +1,4 @@
-# summation = 0
-# for x in range(1000):
-# 	div3 = x/3
-# 	div5 = x/5
-
-# 	if div3.is_integer() == True or div5.is_integer():
-# 		summation += x
-# print(summation)
+# Find the sum of all the multiples of 3 or 5 below 1000.
 
 summation = 0
 
